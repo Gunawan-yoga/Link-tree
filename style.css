@@ -7,7 +7,8 @@ body, h1, p, a {
 
 body {
     font-family: Arial, sans-serif;
-    background: url(bg.jpg) no-repeat center;
+    background: url(background-yoga.jpg) no-repeat center;
+    background-size: cover;
     color: #333;
     display: flex;
     justify-content: center;
@@ -57,7 +58,7 @@ body {
     display: block;
     text-decoration: none;
     padding: 15px;
-    background-color: #007bff;
+    background-color: #ac93a5;
     color: #fff;
     border-radius: 5px;
     font-size: 16px;
@@ -66,5 +67,5 @@ body {
 }
 
 .link:hover {
-    background-color: #0056b3;
+    background-color: #00f7ff;
 }
